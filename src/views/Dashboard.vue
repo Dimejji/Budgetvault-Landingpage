@@ -381,11 +381,11 @@ const securityItems = [
 ]
 
 function goToSignup() {
-  window.location.href = 'signup01.html'
+  window.location.href = 'https://budget-vault-dusky.vercel.app/register'
 }
 
 function goToLogin() {
-  window.location.href = 'login.html'
+  window.location.href = 'https://budget-vault-dusky.vercel.app/'
 }
 
 function toggleMobileMenu() {
