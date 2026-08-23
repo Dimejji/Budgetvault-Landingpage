@@ -654,11 +654,11 @@ const securityItems = [
 ];
 
 function goToSignup() {
-  window.location.href = "https://budget-vault-0-1-e5kyoc42w-oladimejiemmanuel801-8996s-projects.vercel.app/register";
+  window.location.href = "https://budget-vault-0-1.vercel.app/register";
 }
 
 function goToLogin() {
-  window.location.href = "https://budget-vault-0-1-e5kyoc42w-oladimejiemmanuel801-8996s-projects.vercel.app/";
+  window.location.href = "https://budget-vault-0-1.vercel.app/";
 }
 
 function toggleMobileMenu() {
