@@ -568,9 +568,9 @@ const mobileMenuOpen = ref(false);
 const features = [
   {
     icon: "◈",
-    title: "Smart Vaults",
+    title: "Savings",
     description:
-      "Separate money for bills, savings, goals and everyday spending.",
+      "Separate money for savings from everyday spending.",
   },
   {
     icon: "▣",
@@ -604,12 +604,12 @@ const features = [
 ];
 
 const vaults = [
-  {
-    icon: "◈",
-    title: "Smart Vault",
-    description:
-      "Organise your money around bills, savings, spending and the things that matter most.",
-  },
+  // {
+  //   icon: "◈",
+  //   title: "Smart Vault",
+  //   description:
+  //     "Organise your money around bills, savings, spending and the things that matter most.",
+  // },
   {
     icon: "♥",
     title: "Couple Vault",
@@ -654,11 +654,11 @@ const securityItems = [
 ];
 
 function goToSignup() {
-  window.location.href = "https://budget-vault-dusky.vercel.app/register";
+  window.location.href = "https://budget-vault-0-1-e5kyoc42w-oladimejiemmanuel801-8996s-projects.vercel.app/register";
 }
 
 function goToLogin() {
-  window.location.href = "https://budget-vault-dusky.vercel.app/";
+  window.location.href = "https://budget-vault-0-1-e5kyoc42w-oladimejiemmanuel801-8996s-projects.vercel.app/";
 }
 
 function toggleMobileMenu() {
