@@ -441,7 +441,7 @@
         >
           <div class="max-w-[680px] mx-auto mb-[50px] text-center">
             <div class="text-[#168064] text-[9px] font-black tracking-[0.14em]">
-              HOW IT WORKS
+              HOW IT WORKS.
             </div>
             <h2
               class="mt-3 text-[clamp(32px,4vw,48px)] leading-[1.05] tracking-[-0.05em] font-black"
@@ -654,11 +654,11 @@ const securityItems = [
 ];
 
 function goToSignup() {
-  window.location.href = "https://budget-vault-0-1.vercel.app/register";
+  window.location.href = "/no";
 }
 
 function goToLogin() {
-  window.location.href = "https://budget-vault-0-1.vercel.app/";
+  window.location.href = "/no";
 }
 
 function toggleMobileMenu() {
